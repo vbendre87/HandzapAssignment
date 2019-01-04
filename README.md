@@ -1,0 +1,2 @@
+# HandzapAssignment
+News Scraper Service
